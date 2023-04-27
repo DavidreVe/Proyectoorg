@@ -13,7 +13,7 @@ const Footer = ()=>{
         </a>
         </div>
         <img src='/img/Vector.png' alt='org' /> 
-        <strong>Desarrollado por Alura</strong>
+        <strong>Desarrollado por David</strong>
     </footer>
 }
 export default Footer;
